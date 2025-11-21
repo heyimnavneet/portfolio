@@ -21,22 +21,15 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #fff;
-  height: 15rem;
-  padding: 0 6.4rem;
-}
-
-.logo-img {
-  text-transform: uppercase;
+  height: 14rem;
+  padding: 0 7.6rem;
 }
 
 .logo {
-  height: 20rem;
+  height: 2.2rem;
+  width: 14rem;
   filter: brightness(1);
-  opacity: 50%;
-}
-
-.logo-img:hover {
-  color: black;
+  opacity: 90%;
 }
 
 /* NAVIGATION */
@@ -44,7 +37,7 @@ body {
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 4.8rem;
+  gap: 9.6rem;
 }
 
 .main-nav-link:link,
@@ -52,8 +45,9 @@ body {
   display: inline-block;
   text-decoration: none;
   color: #333;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 1.8rem;
+  padding-bottom: 4px;
   transition: all 0.3s;
 }
 
@@ -82,7 +76,7 @@ body {
 }
 
 .heading-primary {
-  font-size: 3rem;
+  font-size: 4.2rem;
   margin-bottom: 1.5rem;
   font-weight: 700;
   color: #2563eb;
